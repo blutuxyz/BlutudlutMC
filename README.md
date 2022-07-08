@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @BlutudlutMC
 - 👀 I’m interested in Linux  
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m developing Web Apps
 
 <!---
 BlutudlutMC/BlutudlutMC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
