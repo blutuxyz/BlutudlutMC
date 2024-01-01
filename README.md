@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BlutudlutMC
+- 👋 Hi, I’m blutu
 - 👀 I’m interested in Linux  
 - 🌱 I’m developing Web Apps
 
